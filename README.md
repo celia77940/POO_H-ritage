@@ -17,9 +17,9 @@ https://www.youtube.com/watch?v=_PhTtWVDhzw&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCw
 ## Architecture du projet 🖱
 
 Dossier Classe :
-      - Compte.php
-      - CompteCourant.php
-      - CompteEpargne.php
+- Compte.php
+- CompteCourant.php
+- CompteEpargne.php
 Readme.md
 index.php
 
