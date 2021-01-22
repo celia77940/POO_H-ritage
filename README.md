@@ -20,8 +20,9 @@ Dossier Classe :
 - Compte.php
 - CompteCourant.php
 - CompteEpargne.php
-.Readme.md
-.index.php
+
+Readme.md
+index.php
 
 ## Objectifs ⭕️
 
